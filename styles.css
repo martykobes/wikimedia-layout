@@ -1,1 +1,28 @@
+#intro {
+    text-align: justify;
+    vertical-align: top;
+    width: 90%;
+    font-size: 150%;
+    margin: 0 auto;
+}
+div#intro {
+}
+div.float {
+ display: inline;
+ 
+  }
+img {
+    height: 135px;
+    width: 135px;
+    margin-left: 150px;
+}
+#footer  ul  {
+    display: inline;
+    text-align: center;
+    margin-left: auto;
+}
+#footer p {
+    text-align: center;
+}
+
 
